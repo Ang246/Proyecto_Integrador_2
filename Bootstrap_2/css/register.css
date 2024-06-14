@@ -1,0 +1,6 @@
+.card-body{
+    -webkit-box-shadow: -17px -15px 9px -3px rgba(230,181,30,1);
+-moz-box-shadow: -17px -15px 9px -3px rgba(230,181,30,1);;
+box-shadow: -17px -15px 9px -3px rgba(230,181,30,1);;
+}
+

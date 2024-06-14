@@ -1,0 +1,57 @@
+.fondo{
+    background-color: #FCBA90;
+}
+
+.noticias .news{
+    width: 300px;
+    padding-bottom: 30px;
+}
+.news .correo{
+    background-color: white;
+    margin-bottom: 10px;
+    border-radius: 30px;
+    width: 319px;
+    border: none;
+}
+
+.news .text h3{
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.correo .mail{
+    border-radius: 30px;
+    padding: 8px 12px 8px 12px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+}
+
+.us a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.btn_facebook{
+    background-color: #0866FF;
+    color: white;
+    padding: 9px;
+    border-radius: 6px;
+    margin: 9px;
+}
+
+.btn_twitter{
+    background-color: black;
+    color: white;
+    padding: 9px;
+    border-radius: 6px;
+    margin: 9px;
+}
+
+.btn_instagram{
+    background-color: black;
+    color: white;
+    padding: 9px;
+    border-radius: 6px;
+    margin: 9px;
+}

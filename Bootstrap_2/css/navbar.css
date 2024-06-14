@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.btn-primary{
+    background-color: #FCA93D  !important;
+}
+
+.form-check-input:checked{
+    background-color: #FCA93D  !important;
+}
+
+.bg-body-tertiary{
+    background-color: #FCA93D !important;
+}
+
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.btn{
+    border: none;
+}
